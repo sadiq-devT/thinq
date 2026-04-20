@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Thinq",
+    "slug": "thinq",
+    "version": "1.0.0",
+    "scheme": "thinq",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "your-eas-project-id"
+      }
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
